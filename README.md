@@ -1,1 +1,2 @@
-# Jvvr2003.github.io
+# Trabalho de Web
+Site de cadastro simples, com verficação de Email válido pelo JavaScript.
